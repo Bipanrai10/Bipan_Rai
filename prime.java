@@ -1,5 +1,5 @@
 import java.util.*;
-public class Prime {
+public class prime {
     public static void main(String[] arg){
         int n,i,count=0;
         System.out.println("Please enter a number: ");
