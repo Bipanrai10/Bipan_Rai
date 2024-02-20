@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class  oddeven{
+public class  odd-even{
     public static void main(String[]args){
     Scanner read=new Scanner(System.in);
     System.out.print("Enter a number");
